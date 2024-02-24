@@ -9,6 +9,7 @@ https://rita-pggym.github.io/kadai02_janken_rich/
 
 ## ④工夫した点・こだわった点
 ●画面デザイン
+
  就学前の子どもが一人でもあそべるようなデザインにしました。
  
 ●画面レイアウト
