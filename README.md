@@ -50,3 +50,5 @@ https://rita-pggym.github.io/kadai02_janken_rich/
   
   角丸ボタン　https://ics.media/entry/230629/
   
+## 履歴
+- 20240204：初版（初回課題提出）
