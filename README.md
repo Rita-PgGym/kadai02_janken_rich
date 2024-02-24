@@ -43,6 +43,8 @@ https://rita-pggym.github.io/kadai02_janken_rich/
   全体レイアウト図を作る→処理を日本語で書く→コーディングするという一連の流れをを意識して取り組みました。機能を追加するときは一つずつ、小さな単位で取り込んでいくことを心がけました。
   
 - [参考記事]
+  
   音を鳴らす　https://jp-seemore.com/web/3576/#toc2
+  
   角丸ボタン　https://ics.media/entry/230629/
   
